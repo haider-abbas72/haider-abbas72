@@ -7,19 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/haideratish" target="blank"><img src="https://img.shields.io/twitter/follow/haideratish?logo=twitter&style=for-the-badge" alt="haideratish" /></a> </p>
 
-- 🔭 I’m currently working on **Fundamentals of AI**
+- 🔭 I’m currently working on **AI and Data Science Projects**
 
-- 🌱 I’m currently learning **NLp, neural Networks and computer vision**
+- 🌱 I’m currently learning **AI, Data Science, NLP, and Finance & FinTech**
 
-- 👯 I’m looking to collaborate on **DataSCience Projects**
+- 👯 I’m looking to collaborate on **freelancing strategies, AI & Data Science research, and project collaborations**
 
-- 🤝 I’m looking for help with **Machine learning and deep learining**
+- 🤝 I’m looking for help with **enhancing my AI & Data Science skills, research, and freelancing strategies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAtish](https://github.com/HaiderAtish)
 
-- 💬 Ask me about **basics of AI And Datascience**
+- 💬 Ask me about **AI And Data science**
 
-- 📫 How to reach me **atish728272@gmail.com or https://www.linkedin.com/in/haider-abbas-74168a325/**
+- 📫 How to reach me **atish728272@gmail.com or https://www.linkedin.com/in/haider-abbas72**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
