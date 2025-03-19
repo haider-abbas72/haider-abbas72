@@ -43,3 +43,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haideratish&show_icons=true&locale=en" alt="haideratish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haideratish&" alt="haideratish" /></p>
+
+## 🅼🆈 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
+
+<p>
+  <a href="https://github.com/https://github.com/haider-abbas72" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=haider-abbas72&hide=java,html,CSS&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height="180px"/>
+  </a>
+  <a href="https://github.com/https://github.com/haider-abbas72" >
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=haider-abbas72&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="BBShark's GitHub Stats" height="180px"/>
+  </a>
+ </p>
+  
