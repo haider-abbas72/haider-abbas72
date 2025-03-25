@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **AI and Data Science Projects**
 
-- 🌱 I’m currently learning **AI, Data Science, NLP, and Finance & FinTech**
+- 🌱 I’m currently learning **AI, Data Science, NLP, and Finance & FinTech
 
 - 👯 I’m looking to collaborate on **freelancing strategies, AI & Data Science research, and project collaborations**
 
