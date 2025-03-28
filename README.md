@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **AI And Data science**
 
-- 📫 How to reach me **atish728272@gmail.com or https://www.linkedin.com/in/haider-abbas72
+- 📫 How to reach me *atish728272@gmail.com or https://www.linkedin.com/in/haider-abbas72
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
