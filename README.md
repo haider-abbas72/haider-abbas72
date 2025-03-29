@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAtish](https://github.com/HaiderAtish)
 
-- 💬 Ask me about **AI And Data science**
+- 💬 Ask me about *AI And Data science**
 
 - 📫 How to reach me *atish728272@gmail.com or https://www.linkedin.com/in/haider-abbas72
 
