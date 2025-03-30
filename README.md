@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/haideratish" target="blank"><img src="https://img.shields.io/twitter/follow/haideratish?logo=twitter&style=for-the-badge" alt="haideratish" /></a> </p>
 
-- 🔭 I’m currently working on AI and Data Science Projects.
+- 🔭 I’m currently working on AI and Data Science Projects..
 
 - 🌱 I’m currently learning AI, Data Science, NLP, and Finance & FinTech.
 
