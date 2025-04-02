@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning AI, Data Science, NLP, and Finance & FinTech.
 
-- 👯 I’m looking to collaborate on **freelancing strategies, AI & Data Science research, and project collaborations
+- 👯 I’m looking to collaborate on **freelancing strategies, AI & Data Science research, and project collaborations.
 
 - 🤝 I’m looking for help with **enhancing my AI & Data Science skills, research, and freelancing strategies**
 
