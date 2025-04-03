@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **freelancing strategies, AI & Data Science research, and project collaborations.
 
-- 🤝 I’m looking for help with **enhancing my AI & Data Science skills, research, and freelancing strategies
+- 🤝 I’m looking for help with **enhancing my AI & Data Science skills, research, and freelancing strategies.
 
 - 👨‍💻 All of my projects are available at [https://github.com/HaiderAtish](https://github.com/HaiderAtish)
 
